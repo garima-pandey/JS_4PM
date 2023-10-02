@@ -1,0 +1,59 @@
+HTML - Structural Layer
+CSS - Presentation Layer
+Javascript: Behavior Layer - Functionality
+
+Scripting Language - Dynamic
+
+What is Javascript?
+Javascript is one of the most popular and widely used programming language. 
+e.g: netflix , walmart, paypal etc
+
+Front end Developer
+Back end Developer
+Full stack Developer
+
+What can you do with it?
+For a long time, JS was only used in browsers to build interactive (user interact) webpages.
+
+JS Today:
+
+Web/ Mobile Apps
+Real - time Networking Apps
+Command Line Tools
+Games
+Chats and Video Streaming Services
+
+Where does javascript code run?
+- Originally designed to run in browsers only
+- So every browser has a JS Engine that can exceute our JS code
+- Google - V8 Engine
+- Firefox - Spider Monkey
+- In 2009, Brian Doll, open source engine in chrome and embedded it inside a C++ program. 
+It is called Node.
+- Node is a c++ program, that includes google's V8 JS engine. now with this we can run JS code outside of a browser.
+- And this means with JS we can build back-end for our web or mobile apps.
+
+Javascript vs ECMAScript?
+
+ECMAScript: Specification - It is uses to define standards
+- 1997 - v1
+- 2015 - ES6 - ECMAscript version 6 - ECMAScript 2015
+
+Editors:
+VS code - choose
+Sublime text
+Atom
+
+Machine Run:
+Node
+
+VS code Extensions:
+Live Server
+
+
+ 
+
+
+
+
+
